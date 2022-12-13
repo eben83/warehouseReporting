@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UUDPj/pMr5WAzhJ6JrbHf8tlFW+Y0d3fjKGXHwiw24yurBwiXn4gOj2jpNTx1r2SIfbdJ7HHcdfhKjyOHkJRqg==",
+  "dgSpecHash": "zn4bizj7GbZU3SW7oPpxyP/GkSfyERkwuJCPJM975TauNT30wr+Z4QAGjF0cGUr27DRLQsWF0NrNwY5ibpqEXA==",
   "success": true,
-  "projectFilePath": "C:\\Git Projects\\Warehousing\\warehouse-Report\\WarehouseReport.Api\\WarehouseReport.Api.csproj",
+  "projectFilePath": "C:\\Users\\Eben Burger\\Documents\\TEST\\warehouseReporting\\warehouse-Report\\WarehouseReport.Api\\WarehouseReport.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Eben Burger\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Eben Burger\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
@@ -165,7 +165,11 @@
     "C:\\Users\\Eben Burger\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Eben Burger\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Eben Burger\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\Eben Burger\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\Eben Burger\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\Eben Burger\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Eben Burger\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Eben Burger\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Eben Burger\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],
   "logs": []
 }
